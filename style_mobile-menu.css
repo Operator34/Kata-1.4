@@ -8,9 +8,9 @@
 }
 @font-face {
     font-family: "TT Lakes Bold";
-    src: url(/font/TTLakes/TTLakes-Bold.woff) format("woff"),
-        url(/font/TTLakes/TTLakes-Bold.eot) format("eot"),
-        url(/font/TTLakes/TTLakes-Bold.ttf) format("truetype");
+    src: url(font/TTLakes/TTLakes-Bold.woff) format("woff"),
+        url(font/TTLakes/TTLakes-Bold.eot) format("eot"),
+        url(font/TTLakes/TTLakes-Bold.ttf) format("truetype");
 };
 html {
     box-sizing: border-box;
@@ -59,12 +59,12 @@ html {
     }
     .header-mobile-menu__button-close{
         margin-left: 24px;
-        background-image: url(/icon/header_icon_close.svg);
+        background-image: url(icon/header_icon_close.svg);
     }
 
     .header-mobile-menu__button-search{
         margin-right: 24px;;
-        background-image: url(/icon/header_icon_search.svg);
+        background-image: url(icon/header_icon_search.svg);
     }
     .header-mobile-menu__logo-img{
         margin-right: 64px;
